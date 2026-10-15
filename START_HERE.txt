@@ -1,0 +1,12 @@
+BARANGAYDESK — PHP OOP/PDO APPLICATION
+
+Open index.php in the project root to run the application.
+The PDO connection is in connection.php.
+The main OOP/PDO entity class is classes/Request.php.
+Each required operation is separated under classes/request_operations/.
+The CRUD examples are in examples/request_crud_examples.php.
+The database schema is in database/schema.sql.
+The user-facing pages are in pages/.
+The requests page lets authenticated users add, fetch, update, delete, and search request records.
+
+Database configuration uses DB_HOST, DB_NAME, DB_USER, and DB_PASS.
